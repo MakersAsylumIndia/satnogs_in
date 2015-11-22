@@ -2,7 +2,7 @@
 DIY Satellite Ground Station and Network
 SatNOGS is an open source ground station and network, optimized for modularity, built from readily available and affordable tools and resources.
 
-satnogs_in
+# satnogs_in
 Satellite Ground Station built at the [Maker's Asylum](http://www.makersasylum.com) in INDIA.
 
 ## License

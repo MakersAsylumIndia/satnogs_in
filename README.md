@@ -7,8 +7,11 @@ Satellite Ground Station built at the [Maker's Asylum](http://www.makersasylum.c
 
 ## License
 Hardware : Licensed under the [CERN OHLv1.2](LICENSE).
+
 Software : Licensed under the [AGPLv3](LICENSE).
+
 Documents : Licensed under the [Creative Commons Attribution-ShareAlike 3.0 License](LICENSE).
 
 For more details on the SatNOGS project, please visit :
+
 &copy; 2014-2015 [Libre Space Foundation](http://librespacefoundation.org).
